@@ -55,7 +55,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/VladimirDymov/badges/large)
+![codewars](https://www.codewars.com/users/VovaDym/badges/large)
 
 ### ⚙️ GitHub статистика:
 
