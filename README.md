@@ -53,7 +53,7 @@
 
 --- -->
 
-### 💻 Codewars:
+<!--### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/VovaDym/badges/large)
 
@@ -71,3 +71,4 @@
 </table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vladymyrdymov)
+--- -->
